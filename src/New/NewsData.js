@@ -1,0 +1,41 @@
+const newsData=[
+  {
+    NewsId:1,
+    newsHeading:"heading1",
+    newsBody:"newsBody",
+    newsAuthor:'auther1'
+  },
+  {
+    NewsId:2,
+    newsHeading:"heading1",
+    newsBody:"newsBody",
+    newsAuthor:'auther1'
+  },{
+    NewsId:3,
+    newsHeading:"heading1",
+    newsBody:"newsBody",
+    newsAuthor:'auther1'
+  },{
+    NewsId:4,
+    newsHeading:"heading1",
+    newsBody:"newsBody",
+    newsAuthor:'auther1'
+  },{
+    NewsId:5,
+    newsHeading:"heading1",
+    newsBody:"newsBody",
+    newsAuthor:'auther1'
+  },{
+    NewsId:6,
+    newsHeading:"heading1",
+    newsBody:"newsBody",
+    newsAuthor:'auther1'
+  },{
+    NewsId:7,
+    newsHeading:"heading1",
+    newsBody:"newsBody",
+    newsAuthor:'auther1'
+  },
+]
+
+export default newsData
